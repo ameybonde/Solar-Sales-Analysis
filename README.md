@@ -51,8 +51,8 @@ To identify revenue trends, supplier performance, customer behaviour, and delive
 | `Orion_cleaning.ipynb` | Data cleaning and preprocessing |
 | `Orion_EDA.ipynb` | Exploratory data analysis |
 | `SQL_analysis.sql` | SQL queries for business analysis |
-| `Solar_Sales_Dashboard.pbix` | Interactive Power BI dashboard |
 | `Solar_Analysis_Report.docx` | SQL queries with output |
+| `Solar_Sales_Dashboard.pbix` | Interactive Power BI dashboard |
 
 ## Note
 
